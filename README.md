@@ -1,10 +1,10 @@
-Selection Total of DR, CR, and Net Balance in Tally
+**Selection Total of DR, CR, and Net Balance in Tally
 Description:
+
 Briefly explain what this TDL does.
-
 Mention that it works with selected vouchers.
-![ChatGPT Image Apr 1, 2025, 05_29_07 PM](https://github.com/user-attachments/assets/72474f51-3df3-483e-84a7-f5d16696e17b)
 
+![ChatGPT Image Apr 1, 2025, 05_29_07 PM](https://github.com/user-attachments/assets/72474f51-3df3-483e-84a7-f5d16696e17b)
 
 Features:
 Calculates Debit, Credit, and Net Balance.
@@ -22,3 +22,4 @@ Usage:
 Open Tally, select multiple vouchers.
 
 The total of DR, CR, and Net Balance will be displayed.
+**
